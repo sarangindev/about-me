@@ -32,6 +32,7 @@ I'm a software development student and lifelong learner, passionate about creati
 
 ## 🤝 Let’s Connect!
 📧 sarangcarvalho96@gmail.com
+
 💼 [LinkedIn](https://www.linkedin.com/in/sarangcarvalho96)  
 🐙 [GitHub](https://github.com/sarang-1996)
 
