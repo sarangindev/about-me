@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hey! I'm Sara
+I'm a software development student and lifelong learner, passionate about creating projects and experimenting with new technologies. I love web and mobile development and enjoy learning a little more every day!
 
-<!--
-**sarang-1996/sarang-1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 Technologies I'm Currently Learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming Languages**
+- Java
+- JavaScript
+
+**Front-End**
+- HTML5
+- CSS
+
+**Mobile Development**
+- Android (Kotlin)
+- iOS (Swift)
+
+**Back-End / APIs**
+- Laravel
+- PHP
+
+**Databases**
+- MySQL
+
+**Tools & IDEs**
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+
+## 🤝 Let’s Connect!
+📧 sarangcarvalho96@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/sarangcarvalho96)  
+🐙 [GitHub](https://github.com/sarang-1996)
+
