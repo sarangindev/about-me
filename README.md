@@ -1,4 +1,5 @@
-👋 Hey! I'm Sara
+👋 Hey! I'm Sara.
+
 I'm a software development student and lifelong learner, passionate about creating projects and experimenting with new technologies. I love web and mobile development and enjoy learning a little more every day!
 
 
