@@ -4,36 +4,36 @@ I'm a software development student and lifelong learner, passionate about creati
 
 *** Programming Skills ***
 
-- Frontend
+Frontend
   
-HTML, CSS, Bootstrap
-JavaScript
+- HTML, CSS, Bootstrap
+- JavaScript
 
-- Backend
+Backend
   
-Java
-PHP (Laravel)
-REST APIs, JSON, XML
+- Java
+- PHP (Laravel)
+- REST APIs, JSON, XML
 
-- Databases
+Databases
   
-SQL
+- SQL
 
-- Mobile Development
+Mobile Development
   
-Android
-iOS
+- Android
+- iOS
 
-- Programming Concepts
+Programming Concepts
   
-Object-Oriented Programming (OOP)
-Basic Design Patterns
-UML
+- Object-Oriented Programming (OOP)
+- Basic Design Patterns
+- UML
 
-- Methodologies & Quality
+Methodologies & Quality
   
-Agile / Scrum
-Software Testing (QA fundamentals)
+- Agile / Scrum
+- Software Testing (QA fundamentals)
 
 ----------------------------------------------------
 
