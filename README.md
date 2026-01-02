@@ -2,33 +2,34 @@
 
 I'm a software development student and lifelong learner, passionate about creating projects and experimenting with new technologies. I love web and mobile development and enjoy learning a little more every day!
 
+*** Programming Skills ***
 
-🚀 Technologies I'm Currently Learning 
+- Frontend
+HTML, CSS, Bootstrap
+JavaScript
 
-**Programming Languages**
-- Java
-- JavaScript
+- Backend
+Java
+PHP (Laravel)
+REST APIs, JSON, XML
 
-**Front-End**
-- HTML5
-- CSS
+- Databases
+SQL
 
-**Mobile Development**
-- Android (Kotlin)
-- iOS (Swift)
+- Mobile Development
+Android
+iOS
 
-**Back-End / APIs**
-- Laravel
-- PHP
+- Programming Concepts
+Object-Oriented Programming (OOP)
+Basic Design Patterns
+UML
 
-**Databases**
-- MySQL
+- Methodologies & Quality
+Agile / Scrum
+Software Testing (QA fundamentals)
 
-**Tools & IDEs**
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
+----------------------------------------------------
 
 ## 🤝 Let’s Connect!
 📧 sarangcarvalho96@gmail.com
