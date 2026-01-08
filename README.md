@@ -1,6 +1,6 @@
 👋 Hey! I'm Sara.
 
-I'm a software development student and lifelong learner, passionate about creating projects and experimenting with new technologies. I love web and mobile development and enjoy learning a little more every day!
+I’m a software development student and lifelong learner. Curious by nature, I love exploring new technologies and building projects that challenge me. I have a bachelor’s in tourism—because I love languages—and apparently not just the common ones! Frontend, backend, or anywhere in between, I enjoy turning ideas into reality with a creative touch.
 
 *** Programming Skills ***
 
@@ -8,6 +8,7 @@ Frontend
   
 - HTML, CSS, Bootstrap
 - JavaScript
+- Angular
 
 Backend
   
@@ -17,18 +18,19 @@ Backend
 
 Databases
   
-- SQL
+- MySQL
 
 Mobile Development
   
-- Android
-- iOS
+- Android(Kotlin)
+- iOS(Swift)
 
-Programming Concepts
-  
-- Object-Oriented Programming (OOP)
-- Basic Design Patterns
-- UML
+Tools & IDEs
+
+- Git
+- GitHub
+- Visual Studio Code
+- IntelliJ IDEA
 
 Methodologies & Quality
   
