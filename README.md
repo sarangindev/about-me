@@ -1,7 +1,7 @@
 # ✦ Sara Carvalho
 
 ```txt
-Tourism graduate → Supply Chain & Operations → Technology
+Tourism graduate → Supply Chain & Operations → Software Development
 ```
 
 Hi, I’m Sara — a tech enthusiast with a background in Tourism and professional experience across supply chain, logistics, customer support, and technology-related environments.
@@ -32,12 +32,9 @@ I’m particularly interested in supply chain operations, data analysis, process
 
 ---
 
-## 📊 Data & Operations
+## 📊 Data 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Supply Chain](https://img.shields.io/badge/Supply_Chain-4B8BBE?style=flat-square)
-![Logistics](https://img.shields.io/badge/Logistics-2E8B57?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-FFB347?style=flat-square)
 
 ---
 
@@ -50,7 +47,7 @@ I’m particularly interested in supply chain operations, data analysis, process
 
 ---
 
-# ✨ Experience Snapshot
+# ✨ Experience
 
 🧩 Built frontend features using React and TypeScript during a software development internship
 🤖 Worked with chatbot integrations and APIs within an existing SaaS platform
