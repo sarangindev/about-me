@@ -4,12 +4,6 @@
 Tourism graduate → Supply Chain & Operations → Software Development
 ```
 
-Hi, I’m Sara — a tech enthusiast with a background in Tourism and professional experience across supply chain, logistics, customer support, and technology-related environments.
-
-I’m particularly interested in supply chain operations, data analysis, process optimization, and technology-driven solutions. Alongside hands-on experience in software development, I enjoy working with problem solving, organization, and analytical thinking in fast-paced environments.
-
----
-
 # 🚀 Tech Stack
 
 ## 🖥️ Frontend
@@ -47,15 +41,6 @@ I’m particularly interested in supply chain operations, data analysis, process
 
 ---
 
-# ✨ Experience
-
-🧩 Built frontend features using React and TypeScript during a software development internship
-🤖 Worked with chatbot integrations and APIs within an existing SaaS platform
-🌍 Coordinated international export operations across air, ocean, road, and courier transport
-📦 Worked with freight forwarders, shipment planning, and operational decision-making
-📊 Interested in analytical problem solving, optimization, and data-driven workflows
-
----
 
 # 🌙 Interests
 
@@ -68,6 +53,6 @@ Software Development • Operations • UX/UI • Continuous Learning
 
 # 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](sarangindev)
 
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square\&logo=github\&logoColor=white)](https://github.com/sarang-1996)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square\&logo=github\&logoColor=white)](https://github.com/sarangindev)
