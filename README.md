@@ -40,7 +40,12 @@ tourism graduate turned developer
 
 ---
 
-✦ currently learning and exploring ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+<p align="center">
+  ✦ currently learning and exploring 
+  <img src="https://img.shields.io/badge/Python-ff69b4?style=flat-square&logo=python&logoColor=white">
+</p>
+
+---
 
 🌐 Connect  
 [LinkedIn](https://www.linkedin.com/in/sarangindev/) • [GitHub](https://github.com/sarangindev)
