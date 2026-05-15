@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ff69b4&height=180&section=header&text=Sara%20Carvalho&fontColor=ffffff&fontSize=42&desc=%E2%8B%86%20%CB%9A%EF%BD%A1%E2%8B%86%E0%AD%A8%E2%99%A1%E0%AD%A7%E2%8B%86%20%CB%9A%EF%BD%A1%E2%8B%86&descAlignY=35&descSize=22"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=999999&color=FF69B4&center=true&vCenter=true&repeat=false&width=700&height=100&lines=%E2%8B%86+%CB%9A%EF%BD%A1%E2%8B%86%E0%AD%A8%E2%99%A1%E0%AD%A7%E2%8B%86+%CB%9A%EF%BD%A1%E2%8B%86;Sara+Carvalho" />
 </p>
 
 <p align="center">
