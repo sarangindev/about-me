@@ -37,9 +37,7 @@ tourism graduate turned developer
 
 ---
 
-✦ software development  
-✦ frontend & backend technologies  
-✦ continuously learning and building  
+✦ currently learning and exploring ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 
 🌐 Connect  
 [LinkedIn](https://www.linkedin.com/in/sarangindev/) • [GitHub](https://github.com/sarangindev)
