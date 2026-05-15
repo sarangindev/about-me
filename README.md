@@ -1,8 +1,10 @@
 <p align="center">
-⋆ ˚｡⋆୨♡୧⋆ ˚｡⋆
+  <span style="color:#ff4fa3;">⋆ ˚｡⋆୨♡୧⋆ ˚｡⋆</span>
 </p>
 
-<h1 align="center">Sara Carvalho</h1>
+<h1 align="center">
+  <span style="color:#ff8dc7;">Sara Carvalho</span>
+</h1>
 
 <p align="center">
 tourism graduate turned developer
