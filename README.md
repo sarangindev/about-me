@@ -1,4 +1,9 @@
-<h1 align="center">✦ Sara Carvalho ✦</h1>
+<p align="center">
+⋆ ˚｡⋆୨♡୧⋆ ˚｡⋆
+</p>
+
+<h1 align="center">Sara Carvalho</h1>
+
 <p align="center">
 tourism graduate turned developer
 </p>
