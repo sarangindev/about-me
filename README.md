@@ -1,10 +1,6 @@
 <p align="center">
-  <span style="color:#ff4fa3;">⋆ ˚｡⋆୨♡୧⋆ ˚｡⋆</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=⋆+˚｡⋆୨♡୧⋆+˚｡⋆;Sara+Carvalho" />
 </p>
-
-<h1 align="center">
-  <span style="color:#ff8dc7;">Sara Carvalho</span>
-</h1>
 
 <p align="center">
 tourism graduate turned developer
