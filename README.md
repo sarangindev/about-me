@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=Sara%20Carvalho&fontColor=ff69b4&fontSize=40&desc=%E2%8B%86%20%CB%9A%EF%BD%A1%E2%8B%86%E0%AD%A8%E2%99%A1%E0%AD%A7%E2%8B%86%20%CB%9A%EF%BD%A1%E2%8B%86&descAlignY=25&descSize=22"/>
 </p>
 
-<p align="center">
-tourism graduate turned developer
-</p>
-
 ---
 
 ## 🎀 Frontend
