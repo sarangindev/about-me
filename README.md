@@ -1,44 +1,26 @@
-╔══════════════════════════════════════╗
-               ✦ SARA CARVALHO ✦
-╚══════════════════════════════════════╝
+# ✦ Sara Carvalho
 
-┌─ 💻 about
-│  tourism graduate turned developer
-└──────────────────────────────────────
+```txt
+tourism graduate turned developer
+```
 
-╭─ ✦ tech stack ✦ ────────────────────╮
+## 🎀 Frontend
+`HTML5` `CSS3` `JavaScript` `TypeScript` `Angular` `React`
 
-   🎀 FRONTEND
-   ┌──────────────────────────────┐
-   │ [ HTML5 ] [ CSS3 ]           │
-   │ [ JavaScript ] [ TypeScript ]│
-   │ [ Angular ] [ React ]        │
-   └──────────────────────────────┘
+## ⚙️ Backend
+`Java` `Laravel` `REST APIs`
 
-   ⚙️ BACKEND
-   ┌──────────────────────────────┐
-   │ [ Java ] [ Laravel ]         │
-   │ [ REST APIs ]                │
-   └──────────────────────────────┘
+## 🗄️ Databases
+`MySQL`
 
-   🗄️ DATABASES
-   ┌──────────────────────────────┐
-   │ [ MySQL ]                    │
-   └──────────────────────────────┘
+## 🛠️ Tools
+`Git` `GitHub` `VS Code` `IntelliJ`
 
-   🛠️ TOOLS
-   ┌──────────────────────────────┐
-   │ [ Git ] [ GitHub ]           │
-   │ [ VS Code ] [ IntelliJ ]     │
-   └──────────────────────────────┘
+---
 
-╰─────────────────────────────────────╯
+✦ software development  
+✦ frontend & backend technologies  
+✦ continuously learning and building  
 
-✦ software development
-✦ frontend & backend technologies
-✦ continuously learning and building
-
-╭─ 🌐 connect ────────────────────────╮
-│ LinkedIn → sarangindev              │
-│ GitHub   → sarangindev              │
-╰─────────────────────────────────────╯
+🌐 Connect  
+[LinkedIn](https://www.linkedin.com/in/sarangindev/) • [GitHub](https://github.com/sarangindev)
